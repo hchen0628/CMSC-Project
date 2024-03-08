@@ -8,10 +8,7 @@ To process the survey data, we download keyword-relevant csv files from the webs
 From the survey data, we find that Hong Kong citizens’ attitudes towards the Hong Kong government and assessment of Hong Kong society turned negative during the Anti-Extradition movement and turned positive after to a similar level as before the movement. In contrast, from the web data, we find that Hong Kong citizens’ attitudes towards the local government and society worsened considerably during the movement, and the negative sentiments such as anger could still be identified in the discussion of Hong Kong government and society after the movement. This trend is reflected both in the graphs of word frequency counts and sentimental analysis. In general, we confirm our hypothesis that the public opinion gathered from survey data and online social media platforms could have a considerable gap.
 
 ### Other information
-GitHub repo navigation: ?
 
 Data sources: LIHKG: https://lihkg.com/category/1; Hong Kong Public Opinion Research Institute: https://www.pori.hk
-
-Required libraries with version numbers: ?
 
 Sentimental analysis materials: https://drive.google.com/file/d/1yHUAGjaKKW_NEkURuIBjm1rhnUtJKUmT/view?usp=drive_link
